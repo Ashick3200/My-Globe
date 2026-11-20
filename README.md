@@ -23,16 +23,16 @@ MY GLOBE is a travel application built using Flutter and Dart. It provides a use
 - ## 📱 App Screenshots
 
 ### Splash Screen
-![Splash Screen](assets/images/splash.png)
+<img src="assets/images/splash.png" alt="Splash Screen" width="220">
 
 ### Home Screen
-![Home Screen](assets/images/home.png)
+<img src="assets/images/home.png" alt="Home Screen" width="220">
 
 ### Travel Packages
-![Travel Packages](assets/images/package.png)
+<img src="assets/images/package.png" alt="Travel Packages" width="220">
 
 ### Booking Screen
-![Booking Screen](assets/images/booking.png)
+<img src="assets/images/booking.png" alt="Booking Screen" width="220">
 
 ## 🛠️ Technologies Used
 
